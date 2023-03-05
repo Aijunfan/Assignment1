@@ -1,2 +1,2 @@
-# Assignment1
-This is assignment 1 homework.
+# Assignment2
+This is assignment 2 homework.
